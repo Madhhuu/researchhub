@@ -1,0 +1,416 @@
+{
+  "users": [
+    {
+      "id": "usr-1",
+      "name": "Dr. Karthika",
+      "role": "Research Admin",
+      "email": "admin@researchhub.edu",
+      "initials": "DK"
+    },
+    {
+      "id": "usr-2",
+      "name": "Dr. Priya",
+      "role": "Faculty",
+      "email": "faculty@researchhub.edu",
+      "initials": "DP"
+    },
+    {
+      "id": "usr-1791304807632",
+      "name": "Dr. Madhumitha Ec23",
+      "role": "Faculty",
+      "email": "madhumitha.ec23@bitsathy.ac.in",
+      "initials": "ME"
+    },
+    {
+      "id": "usr-1791304968918",
+      "name": "Dr. dhanusri",
+      "role": "Faculty",
+      "email": "dhanusri.cs23@bitsathy.ac.in",
+      "initials": "DH"
+    },
+    {
+      "id": "usr-1791304968949",
+      "name": "Dr. dhanusri",
+      "role": "Faculty",
+      "email": "dhanusri.cs23@bitsathy.ac.in",
+      "initials": "DH"
+    },
+    {
+      "id": "usr-1792123126274",
+      "name": "Dr. Gayathiri E",
+      "role": "Faculty",
+      "email": "gayathiri.23@bitsathy.ac.in",
+      "initials": "GE"
+    },
+    {
+      "id": "usr-1792123126285",
+      "name": "Dr. Gayathiri E",
+      "role": "Faculty",
+      "email": "gayathiri.23@bitsathy.ac.in",
+      "initials": "GE"
+    },
+    {
+      "id": "usr-1792123292589",
+      "name": "Dr. Harishmitha R",
+      "role": "Faculty",
+      "email": "harishmitha.ec23@bitsathy.ac.in",
+      "initials": "HR"
+    },
+    {
+      "id": "usr-1792123292601",
+      "name": "Dr. Harishmitha R",
+      "role": "Faculty",
+      "email": "harishmitha.ec23@bitsathy.ac.in",
+      "initials": "HR"
+    }
+  ],
+  "publications": [
+    {
+      "id": "pub-1792123359674",
+      "title": "Colon Cancer",
+      "facultyName": "Dr. Harishmitha R",
+      "department": "ECE",
+      "year": 2026,
+      "type": "Conference",
+      "status": "Verified",
+      "journalOrConference": "SSITCON Conference",
+      "doi": "10.1109/ICSCST70031.2026.11709870",
+      "publisher": "https://ieeexplore.ieee.org/document/11709870",
+      "abstract": " Colon cancer is one of the leading causes of cancer\r\nrelated deaths worldwide, and early detection is vital for \r\nimproving patient outcomes. This paper presents a deep \r\nlearning-based framework for automated colon cancer \r\nclassification using microscopic histopathological images. The \r\nprimary objective is to systematically compare and evaluate \r\nmultiple architectures to identify the most reliable diagnostic \r\nmodel. A dataset of 10,000 images, including 2,000 for \r\nindependent testing, was preprocessed using Multiscale CLAHE \r\n(MCLAHE) to enhance structural details. Features were \r\nextracted with three pretrained CNNs EfficientNetB3, VGG19, \r\nand ResNet152 and classified using Neural Networks, LSTM, \r\nand BiLSTM, resulting in nine configurations.",
+      "submissionDate": "2026-10-16",
+      "citationCount": 0,
+      "fileUrl": "file-1792123359658-537882353.pdf"
+    },
+    {
+      "id": "pub-1792123004293",
+      "title": "Colon Cancer Classification",
+      "facultyName": "Dr. Sonika",
+      "department": "CSE",
+      "year": 2025,
+      "type": "Conference",
+      "status": "Verified",
+      "journalOrConference": "IEEE conference",
+      "doi": "10.1109/ICSCST70031.2026.11709870",
+      "publisher": "https://ieeexplore.ieee.org/document/11709870",
+      "abstract": " Colon cancer is one of the leading causes of cancer\r\nrelated deaths worldwide, and early detection is vital for \r\nimproving patient outcomes. This paper presents a deep \r\nlearning-based framework for automated colon cancer \r\nclassification using microscopic histopathological images. The \r\nprimary objective is to systematically compare and evaluate \r\nmultiple architectures to identify the most reliable diagnostic \r\nmodel. A dataset of 10,000 images, including 2,000 for \r\nindependent testing, was preprocessed using Multiscale CLAHE \r\n(MCLAHE) to enhance structural details. Features were \r\nextracted with three pretrained CNNs EfficientNetB3, VGG19, \r\nand ResNet152 and classified using Neural Networks, LSTM, \r\nand BiLSTM, resulting in nine configurations. Performance was \r\nmeasured with accuracy, F1-score, MCC, Youden’s Index, G\r\nMean, and Cohen’s Kappa. ",
+      "submissionDate": "2026-10-16",
+      "citationCount": 0,
+      "fileUrl": "file-1792123004268-184652813.pdf"
+    },
+    {
+      "id": "pub-1791512946374",
+      "title": "COLON CANCER",
+      "facultyName": "Dr. Madhumitha ",
+      "department": "CSE",
+      "year": 2026,
+      "type": "Conference",
+      "status": "Verified",
+      "journalOrConference": "IEEE",
+      "doi": "",
+      "publisher": "Academic Press",
+      "abstract": "",
+      "submissionDate": "2026-10-09",
+      "citationCount": 0,
+      "fileUrl": "file-1791512946282-595485338.pdf"
+    },
+    {
+      "id": "pub-1",
+      "title": "Deep Learning Approaches for Smart Healthcare",
+      "facultyName": "Dr. Karthika",
+      "facultyId": "fac-1",
+      "department": "CSE",
+      "year": 2026,
+      "type": "Journal",
+      "status": "Verified",
+      "journalOrConference": "IEEE Transactions on Medical Imaging",
+      "doi": "10.1109/TMI.2026.3104928",
+      "citationCount": 42,
+      "publisher": "IEEE",
+      "abstract": "This paper presents a novel deep learning framework for predictive healthcare diagnostic systems using multi-modal patient sensor data, achieving superior accuracy in early cardiovascular disease classification.",
+      "submissionDate": "2026-01-14",
+      "fileUrl": "deep_learning_smart_healthcare.pdf"
+    },
+    {
+      "id": "pub-2",
+      "title": "Secure IoT Framework for Smart Campus Infrastructure",
+      "facultyName": "Dr. Arun Kumar",
+      "facultyId": "fac-2",
+      "department": "ECE",
+      "year": 2026,
+      "type": "Conference",
+      "status": "Verified",
+      "journalOrConference": "ACM/IEEE IPSN Conference",
+      "doi": "10.1145/3587000.3587042",
+      "citationCount": 18,
+      "publisher": "ACM",
+      "abstract": "We propose a lightweight cryptographic key management protocol for edge-assisted IoT sensor deployments across university smart campuses.",
+      "submissionDate": "2026-02-02",
+      "fileUrl": "secure_iot_smart_campus.pdf"
+    },
+    {
+      "id": "pub-3",
+      "title": "Machine Learning Based Precision Crop Yield Prediction",
+      "facultyName": "Dr. Priya",
+      "facultyId": "fac-3",
+      "department": "IT",
+      "year": 2026,
+      "type": "Journal",
+      "status": "Verified",
+      "journalOrConference": "Computers and Electronics in Agriculture",
+      "doi": "10.1016/j.compag.2026.108421",
+      "citationCount": 5,
+      "publisher": "Elsevier",
+      "abstract": "Integration of satellite imagery and localized soil moisture sensor data with ensemble gradient boosting trees for regional crop yield forecasting.",
+      "submissionDate": "2026-03-10",
+      "fileUrl": "ml_crop_prediction.pdf"
+    },
+    {
+      "id": "pub-4",
+      "title": "Cloud-Based Research Data Management and FAIR Compliance",
+      "facultyName": "Dr. Rajesh",
+      "facultyId": "fac-4",
+      "department": "CSE",
+      "year": 2025,
+      "type": "Journal",
+      "status": "Verified",
+      "journalOrConference": "Journal of Grid Computing",
+      "doi": "10.1007/s10723-025-09681-x",
+      "citationCount": 65,
+      "publisher": "Springer",
+      "abstract": "Architectural evaluation of distributed cloud repositories enforcing Findable, Accessible, Interoperable, and Reusable (FAIR) data principles for academic institutions.",
+      "submissionDate": "2025-09-18",
+      "fileUrl": "fair_cloud_data_management.pdf"
+    },
+    {
+      "id": "pub-5",
+      "title": "AI Assisted Medical Image Classification Using Vision Transformers",
+      "facultyName": "Dr. Meena",
+      "facultyId": "fac-5",
+      "department": "CSE",
+      "year": 2025,
+      "type": "Conference",
+      "status": "Verified",
+      "journalOrConference": "ICCV International Conference",
+      "doi": "10.1109/ICCV.2025.1092834",
+      "citationCount": 12,
+      "publisher": "IEEE",
+      "abstract": "Vision Transformers applied to high-resolution MRI scans enable zero-shot segmentation of tissue anomalies with reduced computational overhead.",
+      "submissionDate": "2025-11-20",
+      "fileUrl": "ai_medical_image_classification.pdf"
+    }
+  ],
+  "faculty": [
+    {
+      "id": "fac-1",
+      "name": "Dr. Karthika",
+      "title": "Professor & Head of Research",
+      "department": "CSE",
+      "email": "karthika@university.edu",
+      "initials": "DK",
+      "totalPublications": 48,
+      "citations": 1420,
+      "hIndex": 22,
+      "i10Index": 35,
+      "researchInterests": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Healthcare Informatics",
+        "Generative Models"
+      ],
+      "bio": "Dr. Karthika leads the AI & Medical Imaging Research Group. She has published over 40 journal papers in IEEE and Springer journals and serves as an Associate Editor for Healthcare Systems."
+    },
+    {
+      "id": "fac-2",
+      "name": "Dr. Arun Kumar",
+      "title": "Associate Professor",
+      "department": "ECE",
+      "email": "arunkumar@university.edu",
+      "initials": "AK",
+      "totalPublications": 32,
+      "citations": 890,
+      "hIndex": 17,
+      "i10Index": 24,
+      "researchInterests": [
+        "IoT",
+        "Embedded Systems",
+        "Sensor Networks",
+        "Wireless Security"
+      ],
+      "bio": "Dr. Arun Kumar specializes in smart sensors and wireless mesh communication networks with a focus on campus micro-grid automation."
+    },
+    {
+      "id": "fac-3",
+      "name": "Dr. Priya",
+      "title": "Associate Professor",
+      "department": "IT",
+      "email": "priya@university.edu",
+      "initials": "DP",
+      "totalPublications": 29,
+      "citations": 640,
+      "hIndex": 14,
+      "i10Index": 19,
+      "researchInterests": [
+        "Machine Learning",
+        "Agri-Tech",
+        "Cyber Security",
+        "Data Science"
+      ],
+      "bio": "Dr. Priya conducts interdisciplinary research combining machine learning algorithms with agricultural IoT sensors and predictive analytics."
+    },
+    {
+      "id": "fac-1791304968918",
+      "name": "Dr. dhanusri",
+      "title": "Assistant Professor",
+      "department": "CSE",
+      "email": "dhanusri.cs23@bitsathy.ac.in",
+      "initials": "DH",
+      "totalPublications": 0,
+      "citations": 0,
+      "hIndex": 0,
+      "i10Index": 0,
+      "researchInterests": [
+        "machine learning and deep learning"
+      ],
+      "bio": "Assistant Professor in the Department of CSE."
+    },
+    {
+      "id": "fac-1791304968949",
+      "name": "Dr. dhanusri",
+      "title": "Assistant Professor",
+      "department": "CSE",
+      "email": "dhanusri.cs23@bitsathy.ac.in",
+      "initials": "DH",
+      "totalPublications": 0,
+      "citations": 0,
+      "hIndex": 0,
+      "i10Index": 0,
+      "researchInterests": [
+        "machine learning and deep learning"
+      ],
+      "bio": "Assistant Professor in the Department of CSE."
+    },
+    {
+      "id": "fac-1792123126274",
+      "name": "Dr. Gayathiri E",
+      "title": "Assistant Professor III",
+      "department": "IT",
+      "email": "gayathiri.23@bitsathy.ac.in",
+      "initials": "GE",
+      "totalPublications": 0,
+      "citations": 0,
+      "hIndex": 0,
+      "i10Index": 0,
+      "researchInterests": [
+        "Research",
+        "Academia"
+      ],
+      "bio": "Assistant Professor III in the Department of IT."
+    },
+    {
+      "id": "fac-1792123126285",
+      "name": "Dr. Gayathiri E",
+      "title": "Assistant Professor III",
+      "department": "IT",
+      "email": "gayathiri.23@bitsathy.ac.in",
+      "initials": "GE",
+      "totalPublications": 0,
+      "citations": 0,
+      "hIndex": 0,
+      "i10Index": 0,
+      "researchInterests": [
+        "Research"
+      ],
+      "bio": "Assistant Professor III in the Department of IT."
+    },
+    {
+      "id": "fac-1792123292589",
+      "name": "Dr. Harishmitha R",
+      "title": "Assistant Professor",
+      "department": "ECE",
+      "email": "harishmitha.ec23@bitsathy.ac.in",
+      "initials": "HR",
+      "totalPublications": 0,
+      "citations": 0,
+      "hIndex": 0,
+      "i10Index": 0,
+      "researchInterests": [
+        "Research",
+        "Academia"
+      ],
+      "bio": "Assistant Professor in the Department of ECE."
+    },
+    {
+      "id": "fac-1792123292601",
+      "name": "Dr. Harishmitha R",
+      "title": "Assistant Professor",
+      "department": "ECE",
+      "email": "harishmitha.ec23@bitsathy.ac.in",
+      "initials": "HR",
+      "totalPublications": 0,
+      "citations": 0,
+      "hIndex": 0,
+      "i10Index": 0,
+      "researchInterests": [
+        "Research"
+      ],
+      "bio": "Assistant Professor in the Department of ECE."
+    }
+  ],
+  "pdfRequests": [
+    {
+      "id": "req-1792123902645",
+      "publicationId": "pub-1792123359674",
+      "publicationTitle": "Colon Cancer",
+      "facultyName": "Dr. Harishmitha R",
+      "requesterName": "Dr. Priya",
+      "requesterEmail": "faculty@researchhub.edu",
+      "status": "Pending",
+      "requestedAt": "2026-10-16",
+      "respondedAt": null
+    },
+    {
+      "id": "req-1792123435633",
+      "publicationId": "pub-1792123359674",
+      "publicationTitle": "Colon Cancer",
+      "facultyName": "Dr. Harishmitha R",
+      "requesterName": "Dr. Gayathiri E",
+      "requesterEmail": "gayathiri.23@bitsathy.ac.in",
+      "status": "Approved",
+      "requestedAt": "2026-10-16",
+      "respondedAt": "2026-10-16"
+    },
+    {
+      "id": "req-1792123146165",
+      "publicationId": "pub-1792123004293",
+      "publicationTitle": "Colon Cancer Classification",
+      "facultyName": "Dr. Sonika",
+      "requesterName": "Dr. Gayathiri E",
+      "requesterEmail": "gayathiri.23@bitsathy.ac.in",
+      "status": "Pending",
+      "requestedAt": "2026-10-16",
+      "respondedAt": null
+    },
+    {
+      "id": "req-1792121658633",
+      "publicationId": "pub-1",
+      "publicationTitle": "Deep Learning Approaches for Smart Healthcare",
+      "facultyName": "Dr. Karthika",
+      "requesterName": "Dr. Priya",
+      "requesterEmail": "faculty@researchhub.edu",
+      "status": "Approved",
+      "requestedAt": "2026-10-16",
+      "respondedAt": "2026-10-16"
+    },
+    {
+      "id": "req-1",
+      "publicationId": "pub-1",
+      "publicationTitle": "Deep Learning Approaches for Smart Healthcare",
+      "facultyName": "Dr. Karthika",
+      "requesterName": "Anand S.",
+      "requesterEmail": "anand.research@university.edu",
+      "status": "Pending",
+      "requestedAt": "2026-10-15",
+      "respondedAt": null
+    }
+  ]
+}
